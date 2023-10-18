@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj": {}
+    "D:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj": {}
   },
   "projects": {
-    "d:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj": {
+    "D:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj",
+        "projectUniqueName": "D:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj",
         "projectName": "LearningGrpc",
-        "projectPath": "d:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj",
+        "projectPath": "D:\\PersonalProject\\LearningGrpc\\LearningGrpc.csproj",
         "packagesPath": "C:\\Users\\enetv\\.nuget\\packages\\",
-        "outputPath": "d:\\PersonalProject\\LearningGrpc\\obj\\",
+        "outputPath": "D:\\PersonalProject\\LearningGrpc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enetv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
